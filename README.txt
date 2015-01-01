@@ -1,0 +1,1 @@
+This code sends an SMS through an Arduino Mega, by using Nokia's 6310i FBus. For the schematic, and an overview of how the code works, please visit https://ilias.giechaskiel.com/posts/arduino_sms/index.html. 
